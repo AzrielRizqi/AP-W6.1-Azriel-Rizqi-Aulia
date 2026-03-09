@@ -1,0 +1,3 @@
+What is the output of this program? Explain why
+
+Output dari programnya adalah "Meow". Kenapa? Karena pada class Cat, output dari method sound di override sehingga menghasilkan output yang berbeda. Yang seharusnya pada class Cat mengeluarkan output "Some animal sound" yang berasal dari method sound dari class Animal, method sound pada class Cat di override sehingga menghasilkan output yang berbeda.
